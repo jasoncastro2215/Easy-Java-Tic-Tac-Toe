@@ -1,6 +1,6 @@
 # Installation
 
-###Java 11 is installed in my computer
+### Java 11 is installed in my computer
 
 # How to run
 
@@ -10,6 +10,6 @@
 ### player can put their move by typing coordinates e.g 1 2 (separated by space)
 ### X is the first move
 ### Coordinates:
-###(1, 3) (2, 3) (3, 3)
-###(1, 2) (2, 2) (3, 2)
-###(1, 1) (2, 1) (3, 1)
+### (1, 3) (2, 3) (3, 3)
+### (1, 2) (2, 2) (3, 2)
+### (1, 1) (2, 1) (3, 1)
